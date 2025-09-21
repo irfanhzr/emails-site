@@ -1,0 +1,3 @@
+git add designs/
+git commit -m "Figma resimleri eklendi"
+git push origin main
